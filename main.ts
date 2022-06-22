@@ -17,3 +17,4 @@ let epicGuy = sprites.create(img`
     . . . . f 2 f . f 2 f . . . . . 
     . . . . f f f . f f f . . . . . 
     `, SpriteKind.Player)
+controller.moveSprite(epicGuy, 100, 100)
