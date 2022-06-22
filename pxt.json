@@ -2,7 +2,8 @@
     "name": "Coding Competition",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Coding Competition": "github:germanhorn12/coding-competition#c7f33a46a1758e6b455c73ab3eb370d1ed09b1b3"
     },
     "files": [
         "main.blocks",
